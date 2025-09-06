@@ -24,4 +24,3 @@ Each section includes simple, practical rules that make responses clearer and hi
 
 ---
 
-💡 In short: this repo is a **template for instructions** that anyone can copy and use as a baseline to get the best experience with ChatGPT-5.
